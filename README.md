@@ -54,42 +54,42 @@ I'm a passionate software engineer with a focus on clean architecture, machine l
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Legendary Mind</h3>
+      <h3 align="center">Native Cron</h3>
       <p align="center">
-        <a href="https://github.com/devtronic/legendary-mind">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=devtronic&repo=legendary-mind&theme=dark" alt="legendary-mind">
+        <a href="https://github.com/mintware-de/native-cron">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mintware-de&repo=native-cron&theme=dark" alt="native-cron">
         </a>
       </p>
-      <p align="center">Easy to use neural network written in PHP</p>
+      <p align="center">Manage native unix cron jobs with PHP</p>
     </td>
     <td width="50%">
-      <h3 align="center">Tree Classifier</h3>
+      <h3 align="center">Catalyst Builder</h3>
       <p align="center">
-        <a href="https://github.com/devtronic/tree-classifier">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=devtronic&repo=tree-classifier&theme=dark" alt="tree-classifier">
+        <a href="https://github.com/mintware-de/catalyst_builder">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mintware-de&repo=catalyst_builder&theme=dark" alt="catalyst_builder">
         </a>
       </p>
-      <p align="center">A class for decision trees in PHP</p>
+      <p align="center">A dependency injection provider builder for dart</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">Clean Architecture TypeScript</h3>
+      <h3 align="center">Event Dispatcher Builder</h3>
       <p align="center">
-        <a href="https://github.com/devtronic/clean-architecture-typescript">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=devtronic&repo=clean-architecture-typescript&theme=dark" alt="clean-architecture-typescript">
+        <a href="https://github.com/mintware-de/event_dispatcher_builder">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mintware-de&repo=event_dispatcher_builder&theme=dark" alt="event_dispatcher_builder">
         </a>
       </p>
-      <p align="center">Clean Architecture implementation in TypeScript</p>
+      <p align="center">A code generator for generating a event dispatcher class</p>
     </td>
     <td width="50%">
-      <h3 align="center">Injector</h3>
+      <h3 align="center">Explorator</h3>
       <p align="center">
-        <a href="https://github.com/devtronic/injector">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=devtronic&repo=injector&theme=dark" alt="injector">
+        <a href="https://github.com/mintware-de/explorator">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mintware-de&repo=explorator&theme=dark" alt="explorator">
         </a>
       </p>
-      <p align="center">A service container for humans (PSR-11)</p>
+      <p align="center">A routing system which fits perfectly between catalyst_builder and the flutter navigator</p>
     </td>
   </tr>
 </table>
