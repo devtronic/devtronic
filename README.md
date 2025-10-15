@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm devtronic 👋</h1>
 
 <p align="center">
-  <em>Software Engineer | Full-Stack Developer | Machine Learning Enthusiast</em>
+  <em>Software Engineer | Full-Stack Developer | Clean Code Advocate</em>
 </p>
 
 <p align="center">
@@ -14,11 +14,11 @@
 
 ## 🚀 About Me
 
-I'm a passionate software engineer with a focus on clean architecture, machine learning, and building scalable applications. I enjoy exploring new technologies and contributing to open-source projects.
+I'm a passionate software engineer with a focus on clean architecture, design patterns, and building scalable applications. I enjoy exploring new technologies and contributing to open-source projects.
 
-- 🔭 Working on machine learning libraries and architectural patterns
-- 🌱 Exploring AI/ML, Flutter, and modern web technologies
-- 💡 Interested in neural networks, decision trees, and clean code principles
+- 🔭 Working on architectural patterns and development tools
+- 🌱 Exploring Flutter, Dart, and modern web technologies
+- 💡 Interested in clean code principles and software design
 - 🎯 Always learning and improving my craft
 
 ## 🛠️ Tech Stack
@@ -43,11 +43,11 @@ I'm a passionate software engineer with a focus on clean architecture, machine l
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ### Specializations
-- 🧠 Machine Learning & Neural Networks
 - 🏗️ Clean Architecture & SOLID Principles
 - 🔄 Dependency Injection & Service Containers
 - 📱 Mobile Development with Flutter
 - 🌐 Full-Stack Web Development
+- 🛠️ Development Tools & Automation
 
 ## 🌟 Featured Projects
 
